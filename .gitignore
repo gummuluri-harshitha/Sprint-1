@@ -1,0 +1,8 @@
+*.class
+*.log
+*.tmp
+*.bak
+*.db
+.env
+*.iml
+tempCodeRunnerFile.java
